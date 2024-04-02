@@ -1,9 +1,9 @@
-Title: Suicide in India Dataset (2001-2012)
+# Title: Suicide in India Dataset (2001-2012)
 
-Description:
+# Description:
 This dataset contains yearly suicide details of all the states/union territories (U.T.) of India from 2001 to 2012. It includes various parameters such as age group, gender, education status, means adopted for suicide, causes of suicide, and state-wise suicide counts.
 
-Content:
+# Content:
 
 Year: The year in which the suicides occurred (2001-2012).
 
@@ -21,9 +21,9 @@ Causes of Suicide: Reasons or causes attributed to the suicides.
 
 Total: Total number of suicides reported for each combination of parameters.
 
-Dataset Source: National Crime Records Bureau (NCRB), Govt of India has shared this dataset under Govt. Open Data License - India.
+# Dataset Source: National Crime Records Bureau (NCRB), Govt of India has shared this dataset under Govt. Open Data License - India.
 
-Potential Use Cases:
+# Potential Use Cases:
 
 Analysis of suicide trends over time and across different demographic groups.
 
